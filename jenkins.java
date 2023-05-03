@@ -1,4 +1,5 @@
-public class ex1 {
+package bruh.java;
+public class jenkins {
 
 	public static void main(String[] args) {
 		int a=10,b=20,ans;
